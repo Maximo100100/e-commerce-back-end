@@ -1,2 +1,1 @@
-# e-commerce-back-end
-Functional express.js API
+# E-commerce Back End Starter Code
